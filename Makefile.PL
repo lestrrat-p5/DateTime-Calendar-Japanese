@@ -10,6 +10,4 @@ requires 'DateTime::Calendar::Chinese';
 requires 'DateTime::Calendar::Japanese::Era';
 requires 'Params::Validate';
 
-auto_set_repository;
-
 WriteAll;
